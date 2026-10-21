@@ -9,13 +9,13 @@
   "theme_color": "#b71d4a",
   "icons": [
   {
-    "src": "egner-icon-192.png",
+    "src": "icon-192.png",
     "sizes": "192x192",
     "type": "image/png",
     "purpose": "any"
   },
   {
-    "src": "egner-icon-512.png",
+    "src": "icon-512.png",
     "sizes": "512x512",
     "type": "image/png",
     "purpose": "any"
